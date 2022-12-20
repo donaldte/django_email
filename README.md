@@ -1,2 +1,2 @@
 # django_email
-Envoi d'email personalise avec django
+Envoyer un e-mail avec du contenu html
